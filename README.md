@@ -29,3 +29,6 @@ fbind(a, b)
 
 ```
 
+## Notes
+
+* Choosing licenses: https://choosealicense.com/ 
