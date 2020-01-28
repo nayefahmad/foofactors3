@@ -8,6 +8,8 @@ The goal of foofactors3 is to combine factors nicely.
 
 This is an example as part of the "Building tidy tools" workshop at rstudio::conf 2020, on 2020-01-27. 
 
+Materials: https://github.com/rstudio-conf-2020/build-tidy-tools 
+
 ## Installation
 
 You can install the released version of foofactors3 from GitHub with:
